@@ -1,4 +1,4 @@
 {
-  "id": "did:web:dave-promulgare:github.io",
+  "id": "did:web:dave-promulgare.github.io",
   "host": "http:192.168.2.192:3000/did.json" 
 }
